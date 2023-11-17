@@ -1,9 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/q7-BXQLg)
-# Assignment Description
-Build an HTML document for the attached web page design. All required icons are available on assets.zip Download assets.zip. 
-
-Requirements:
-
+# Build an HTML document for the attached web page design.
+## Requirements:
 1. The goal of this assignment is to learn about HTML elements and attributes.
 2. Should use an HTML form element for the form section.
 3. CSS and JavaScript are not required even if the page does not look like the mock image.
@@ -15,6 +11,10 @@ Requirements:
 9. Your assignment will be assessed only based on the HTML elements and their attributes used.
 10. Use the right HTML form validations available for each input element type. Refer https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validationLinks to an external site..
 For images, use any image from the web.
+
+# Mock UI
+![image](https://github.com/tirdesh/HotelListingPage-1-HTML/assets/71664201/1198ce14-fb90-46e9-aa8c-665ebd50da17)
+
 
 # Work Done
 1. Used body, header, main, and footer elements to group content appropriately.
@@ -28,8 +28,8 @@ For images, use any image from the web.
 3. As this assignment is made mostly by using html no additional packages are required.
 
 # Final Output(How the page looks)
-![image](https://github.com/info-6150-fall-2023/assignment-2-tirdesh-neu/assets/145165383/4e25cdca-cd63-4d40-a536-63d253b26133)
-![image](https://github.com/info-6150-fall-2023/assignment-2-tirdesh-neu/assets/145165383/73415a4b-dcc9-4a88-9d46-ac4bccbfc13a)
-![image](https://github.com/info-6150-fall-2023/assignment-2-tirdesh-neu/assets/145165383/7c3d4b3a-490a-4a13-95bc-9a6f6d77fd1d)
-![image](https://github.com/info-6150-fall-2023/assignment-2-tirdesh-neu/assets/145165383/dcb169d5-0610-44f3-999b-1015b0f8db7c)
-![image](https://github.com/info-6150-fall-2023/assignment-2-tirdesh-neu/assets/145165383/dc13fc2f-63c5-424d-ad8e-c77d52e1d695)
+![image](https://github.com/tirdesh/HotelListingPage-1-HTML/assets/71664201/b24234db-cec6-4b28-860c-d834803bc36f)
+![image](https://github.com/tirdesh/HotelListingPage-1-HTML/assets/71664201/266db1a6-fd67-405d-abaf-a9891cffd3ee)
+![image](https://github.com/tirdesh/HotelListingPage-1-HTML/assets/71664201/c9370a8e-d334-4b97-9abe-a3898cdfaebe)
+![image](https://github.com/tirdesh/HotelListingPage-1-HTML/assets/71664201/f9bd3bbb-80f2-4f86-b7f0-d9650bac4402)
+![image](https://github.com/tirdesh/HotelListingPage-1-HTML/assets/71664201/487f9b0b-a9aa-4f77-ac6a-f4d3314f35d7)
